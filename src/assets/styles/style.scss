@@ -1,0 +1,27 @@
+/* ITCSS: Settings */
+@import '_root';
+@import '_var.sass';
+
+/* ITCSS: Fonts */
+@import '_googleFonts.scss';
+
+/* ITCSS: Base */
+@import '_global.sass';
+
+/* ITCSS: Sections */
+@import '_topbar.sass';
+@import '_home.sass';
+@import '_about.sass';
+@import '_projects.sass';
+@import '_footer.sass';
+
+@import 'error404.sass';
+
+/* ITCSS: Components */
+@import '_educationStep.sass';
+@import '_cards.sass';
+@import '_colorModeButton.sass';
+@import '_burgerButton.sass';
+
+/* ITCSS: Trumps */
+@import '_transitions.sass';

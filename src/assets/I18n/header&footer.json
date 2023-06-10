@@ -1,0 +1,42 @@
+{
+    "homeLink": {
+        "fr": "Accueil",
+        "en": "Home"
+    },
+    "aboutLink": {
+        "fr": "A propos",
+        "en": "About"
+    },
+    "projectsLink": {
+        "fr": "Projets",
+        "en": "Projects"
+    },
+    "colorModesBtnAriaLabel": {
+        "fr": "basucler entre le thème clair et sombre",
+        "en": "toggle between light and dark themes"
+    },
+    "CV": {
+        "fr": "Voir le CV",
+        "en": "View the CV"
+    },
+    "toggleMenuButtonAriaLabel": {
+        "fr": "Bouton pour basculer entre l'ouverture et la fermeture du menu sur petit écran",
+        "en": "Button to toggle between open and close menu on small screen"
+    },
+    "credits": {
+        "fr": "2023 © Tous droits réservés",
+        "en": "2023 © All rights reserved"
+    },
+    "goToTopButtonAriaLabel": {
+        "fr": "bouton pour aller au sommet de la page",
+        "en": "button to go to top of page"
+    },
+    "goToTopImageAlt": {
+        "fr": "image du bouton pour aller au sommet de la page",
+        "en": "image of button to go to top of page"
+    },
+    "creator": {
+        "fr": "Créé par Valentin Gindre",
+        "en": "Created by Valentin Gindre"
+    }
+}

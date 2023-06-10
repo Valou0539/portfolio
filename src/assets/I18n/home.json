@@ -1,0 +1,18 @@
+{
+    "title": {
+        "fr": "Ma passion pour le développement au service de ",
+        "en": "My passion for development at the service of "
+    },
+    "titleColored": {
+        "fr": "Votre Vision",
+        "en": "Your Vision"
+    },
+    "description": {
+        "fr": "En tant que développeur web frontend expérimenté, je concrétise vos idées en applications web innovantes. Découvrez mes projets mettant en avant mon expérience dans le développement web.",
+        "en": "As an experienced frontend web developer, I can turn your ideas into innovative web applications. Take a look at some of the projects I've worked on, highlighting my experience in web development."
+    },
+    "contact": {
+        "fr": "Me contacter",
+        "en": "Contact me"
+    }
+}

@@ -1,0 +1,45 @@
+footer
+    display: flex
+    justify-content: center
+    align-items: center
+    gap: 47px
+    width: 100%
+    height: 46px
+
+    font-family: 'Roboto'
+    font-weight: 400
+    font-size: 14px
+    line-height: 14px
+    color: var(--text-color)
+    padding: 0 20px
+
+    @media only screen and (max-width: 600px)
+        font-size: 11px
+        line-height: 11px
+        gap: 5%
+    @media only screen and (max-width: 600px)
+        gap: 0
+
+    button
+        display: block
+        align-self: end
+        background-color: transparent
+        border: none
+        filter: var(--invert-color)
+        transition: all .3s
+
+        &:focus
+            outline: 2px solid #000
+        
+        img
+            display: block
+            width: 78px
+            height: 36px
+
+    span
+        width: 176px
+        text-align: start
+        @media only screen and (max-width: 600px)
+            width: 130px
+        @media only screen and (max-width: 400px)
+            text-align: center

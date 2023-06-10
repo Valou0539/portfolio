@@ -1,0 +1,54 @@
+{
+    "projectsTitle": {
+        "fr": "PROJETS",
+        "en": "PROJECTS"
+    },
+    "cardsDescription": {
+        "devBoost": {
+            "fr": "Site internet créé pour proposer ses services en développement web durant l’été 2023. Réalisé sans maquette avec des inspirations du site d’Apple.",
+            "en": "Website created to offer web development services during the summer of 2023. Created without a mock-up, inspired by Apple's website"
+        },
+        "timeTravelTCG": {
+            "fr": "Site internet créé en projet scolaire pour un jeu de cartes, certaines pages n’ont pas pu être réalisées. Réalisation de la maquette avec Figma.",
+            "en": "Website created as a school project for a card game, some pages could not be produced. Layout created with Figma."
+        },
+        "theFiasco": {
+            "fr": "Site internet d’un restaurant factice créé  en cours de la formation sur Grafikart à partir d’une maquette déjà faite.",
+            "en": "A fake restaurant website created during the training course on Grafikart from an existing mock-up."
+        },
+        "water": {
+            "fr": "Site internet d’une agence de voyage ou d’une association  factice en rapport avec l’océan créé  en cours de  formation à partir d’une maquette déjà faite.",
+            "en": "A fake travel agency or association website related to the ocean, created during the training course from an existing mock-up."
+        },
+        "selfPass": {
+            "fr": "Reproduction du site de Pronote pour téléphone afin d’être prioritaire à la cantine tous les jours (avoir cours entre 13h et 14h",
+            "en": "Reproduction of the Pronote website for the telephone to have priority in the cafeteria every day (having classes between 1pm and 2pm)."
+        }
+    },
+    "cardsImageAlt": {
+        "devBoost": {
+            "fr": "image du site de DEV BOOST",
+            "en": "image of the DEV BOOST website"
+        },
+        "timeTravelTCG": {
+            "fr": "image du site de Time Travel TCG",
+            "en": "image of the Time Travel TCG website"
+        },
+        "theFiasco": {
+            "fr": "image du site du Fiasco",
+            "en": "image of the Fiasco website"
+        }
+    },
+    "githubLogoAlt": {
+        "fr": "logo de Github",
+        "en": "Github's logo"
+    },
+    "cardsLink": {
+        "fr": "Voir le site",
+        "en": "See the site"
+    },
+    "externalLinkAlt": {
+        "fr": "icone d'un lien externe",
+        "en": "external link icon"
+    }
+}

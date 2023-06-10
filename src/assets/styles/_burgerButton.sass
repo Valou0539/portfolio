@@ -1,0 +1,59 @@
+#mobileMenuButton 
+    --burger-width: 48px
+    --burger-height: 30px
+    --burger-line-height: 4px
+    --burger-line1-width: 100%
+    --burger-line2-width: 100%
+    --burger-line3-width: 100%
+    --burger-align-line: center
+    --burger-have-line-border-radius: 0
+    --burger-color: var(--text-color)
+    --transition-duration: .3s
+
+    --burger-line-border-radius: calc(var(--burger-have-line-border-radius) * var(--burger-line-height) / 2)
+    --burger-active-line-translate: calc(var(--burger-height) / 2 - var(--burger-line-height) / 2 - 1px)
+    width: var(--burger-width)
+    height: var(--burger-height)
+    border: none
+    background-color: transparent
+
+    display: flex
+    flex-direction: column
+    justify-content: space-between
+    align-items: var(--burger-align-line)
+
+
+#mobileMenuButton span 
+    flex-shrink: 0
+    height: var(--burger-line-height)
+    background-color: var(--burger-color)
+    border-radius: var(--burger-line-border-radius)
+    pointer-events: none
+
+    transition: all var(--transition-duration)
+
+
+#mobileMenuButton span:nth-of-type(1) 
+    width: var(--burger-line1-width)
+
+
+#mobileMenuButton span:nth-of-type(2) 
+    width: var(--burger-line2-width)
+
+
+#mobileMenuButton span:nth-of-type(3) 
+    width: var(--burger-line3-width)
+
+
+#mobileMenuButton.active span:nth-of-type(1) 
+    width: 100%
+    transform: translateY(var(--burger-active-line-translate)) rotate(-45deg)
+
+
+#mobileMenuButton.active span:nth-of-type(2) 
+    opacity: 0
+
+
+#mobileMenuButton.active span:nth-of-type(3) 
+    width: 100%
+    transform: translateY(calc(0px - var(--burger-active-line-translate))) rotate(45deg)

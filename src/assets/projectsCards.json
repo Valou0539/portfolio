@@ -1,0 +1,45 @@
+{
+    "largerCards": [
+        {
+            "imageName": "dev-boost.webp",
+            "imageHoverTranslation": "-36%",
+            "title": "DEV BOOST",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "I18nIndex": "devBoost",
+            "githubLink": "https://github.com/Valou0539/DEV-BOOST",
+            "websiteLink": "https://dev-boost.fr/"
+        },
+        {
+            "imageName": "time-travel-TCG.webp",
+            "imageHoverTranslation": "-75%",
+            "title": "Time Travel TCG",
+            "tags": ["HTML", "CSS", "JavaScript"],
+            "I18nIndex": "timeTravelTCG",
+            "githubLink": "",
+            "websiteLink": "https://timetraveltcg.fr"
+        },
+        {
+            "imageName": "the-fiasco.webp",
+            "imageHoverTranslation": "-215%",
+            "title": "The Fiasco",
+            "tags": ["HTML", "CSS", "JavaScript", "JQuery"],
+            "I18nIndex": "theFiasco",
+            "githubLink": "https://github.com/Valou0539/The-fiasco",
+            "websiteLink": "https://valou0539.github.io/The-fiasco/"
+        }
+    ],
+    "smallerCards": [
+        {
+            "title": "WATER",
+            "I18nIndex": "water",
+            "githubLink": "https://github.com/Valou0539/water/water_com/",
+            "websiteLink": "https://valou0539.github.io/water/water_com/home.html"
+        },
+        {
+            "title": "SELF Pass",
+            "I18nIndex": "selfPass",
+            "githubLink": "https://github.com/Valou0539/self_pass",
+            "websiteLink": "https://valou0539.github.io/self_pass/"
+        }
+    ]
+}

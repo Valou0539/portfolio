@@ -1,0 +1,36 @@
+*,
+*:before,
+*:after
+    box-sizing: border-box
+    margin: 0
+    padding: 0
+
+*:focus-visible
+    outline: 0
+
+a
+    text-decoration: none
+
+.color_theme
+    overflow-x: hidden
+    max-width: 100%
+    min-height: 100vh
+    min-height: 100dvh
+    background-color: var(--main-color)
+    transition: all .3s
+    background-size: 100% 100%
+    @media only screen and (max-width: 1000px)
+        background-image: url('../img/background-light-mobile.png')
+        &.dark
+            background-image: url('../img/background-dark-mobile.png')
+        &.light
+            background-image: url('../img/background-light-mobile.png')
+    @media only screen and (min-width: 1000px)
+        background-image: url('../img/background-light.png')
+        &.dark
+            background-image: url('../img/background-dark.png')
+        &.light
+            background-image: url('../img/background-light.png')
+
+[v-cloak]
+    display: none

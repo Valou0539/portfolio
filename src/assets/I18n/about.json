@@ -1,0 +1,46 @@
+{
+    "biographyTitle": {
+        "fr": "BIOGRAPHIE",
+        "en": "BIOGRAPHY"
+    },
+    "biographyContent": {
+        "fr": "En tant qu’étudiant en informatique passionné par le développement web frontend, je suis en constante exploration pour acquérir de nouvelles compétences et relever des défis créatifs. J'ai découvert ma passion pour la programmation et le design en développant mes propres projets personnels. Mon parcours en tant qu’étudiant m'a permis de développer une solide base en langages de programmation tels que HTML, CSS et JavaScript. Je suis constamment en quête de nouvelles connaissances et je me tiens au courant des dernières tendances et technologies du développement web. Je crois en l'importance de l'apprentissage continu et je suis motivé à développer mes compétences pour créer des expériences web uniques et convaincantes. À travers mon portfolio, je souhaite partager mon enthousiasme pour le développement web frontend et démontrer ma créativité et ma capacité à créer des interfaces utilisateur attrayantes. J'aspire à poursuivre mes études dans le domaine du développement web et à faire de ma passion mon métier.",
+        "en": "As a computer science student with a passion for front-end web development, I'm constantly exploring new skills and creative challenges. I discovered my passion for programming and design by developing my own personal projects. My studies have given me a solid grounding in programming languages such as HTML, CSS and JavaScript. I'm constantly on the lookout for new knowledge and keep up to date with the latest trends and technologies in web development. I believe in the importance of continuous learning and am motivated to develop my skills to create unique and compelling web experiences. Through my portfolio, I hope to share my enthusiasm for front-end web development and demonstrate my creativity and ability to create attractive user interfaces. I aspire to continue my studies in the field of web development and make my passion my profession."
+    },
+    "skillsTitle": {
+        "fr": "COMPETENCES",
+        "en": "SKILLS"
+    },
+    "educationTitle": {
+        "fr": "EDUCATION",
+        "en": "EDUCATION"
+    },
+    "CurrentDate": {
+        "fr": "présent",
+        "en": "now"
+    },
+    "lyceeTitle": {
+        "fr": "Première et terminale générales",
+        "en": "Second and last year in high school"
+    },
+    "lyceeEstablishment": {
+        "fr": "Lycée Polyvalent Jacques Duhamel - Dole",
+        "en": "Lycée Polyvalent Jacques Duhamel - Dole"
+    },
+    "lyceeDescription": {
+        "fr": "Obtention du baccalauréat mention [bien]. Plusieurs notions en informatique ont été apprises dans la spécialité NSI (Numérique et Sciences de l’informatique) dont le Python, le SQL et le développement web qui a été pour la majorité approfondie en autodidacte.",
+        "en": "Graduated with honors. I learned a number of computer concepts in the NSI (Numeric and Computer Sciences) specialization, including Python, SQL and web development, most of which I taught myself."
+    },
+    "BUTTitle": {
+        "fr": "BUT Informatique",
+        "en": "Computer Science BUT"
+    },
+    "BUTEstablishment": {
+        "fr": "IUT - Dijon",
+        "en": "IUT - Dijon"
+    },
+    "BUTDescription": {
+        "fr": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis eget odio elit. Phasellus commodo, nisi sed venenatis facilisis, ligula justo lacinia neque, in vestibulum nisl nisl non ante.",
+        "en": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis eget odio elit. Phasellus commodo, nisi sed venenatis facilisis, ligula justo lacinia neque, in vestibulum nisl nisl non ante."
+    }
+}

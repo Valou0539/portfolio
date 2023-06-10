@@ -1,0 +1,32 @@
+:root {
+    --light-mode-main-color: #FFF;
+    --light-mode-secondary-color: #181818;
+    --light-mode-text-color: #000;
+    --light-mode-last-name-color: #444;
+
+    --dark-mode-main-color: #181818;
+    --dark-mode-secondary-color: #EEE;
+    --dark-mode-text-color: #FFF;
+    --dark-mode-last-name-color: #CCC;
+
+    --light-mode-home-color: #06F;
+    --dark-mode-home-color: #1E78FF;
+    --light-mode-home-gradient: linear-gradient(#00FFFF 20%, #0066FF 100%);
+    --dark-mode-home-gradient: linear-gradient(#74FFFF, #1E78FF);
+    --default-home-color: #181818;
+
+    --about-color: #7000FF;
+
+    --projects-color: #DE6C01;
+    --light-mode-projects-cards-background: rgba(204, 204, 204, .2);
+    --dark-mode-projects-cards-background: rgba(24, 24, 24, .2);
+    --light-mode-projects-cards-box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.15),
+                                            inset 10px 10px 10px 1px rgba(255, 255, 255, 0.44);
+    --dark-mode-projects-cards-box-shadow: 15px 15px 10px rgba(0, 0, 0, 0.15),
+                                            inset 5px 5px 10px rgba(255, 255, 255, 0.2);
+    --light-mode-projects-cards-border: rgba(0, 0, 0, .15);
+    --dark-mode-projects-cards-border: rgba(255, 255, 255, .2);
+    
+    --light-mode-invert-color: invert(0);
+    --dark-mode-invert-color: invert(100%);
+}

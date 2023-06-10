@@ -1,0 +1,95 @@
+.home
+    min-height: calc(100vh - 109px)
+    min-height: calc(100dvh - 109px)
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+    font-family: 'Roboto'
+    padding: 0 20px
+    transition: padding .3s
+
+    @media only screen and (max-height: 900px)
+        padding-top: 125px
+
+    .title
+        color: var(--secondary-color)
+        font-weight: 600
+        font-size: 62px
+        line-height: 74px
+        text-align: center
+        max-width: 862px
+        margin-bottom: 32px
+        @media only screen and (min-width: 1800px)
+            font-size: 90px
+            line-height: 120px
+            max-width: 1200px
+        @media only screen and (max-width: 920px)
+            font-size: 43px
+            line-height: 54px
+            max-width: 510px
+        @media only screen and (max-width: 350px)
+            font-size: 38px
+            line-height: 48px
+        .title_colored
+            font-weight: 900
+            background: var(--home-gradient)
+            -webkit-background-clip: text
+            -webkit-text-fill-color: transparent
+            background-clip: text
+            text-fill-color: transparent
+    
+
+    p
+        color: var(--text-color)
+        font-family: 'Source Sans Pro'
+        font-weight: 400
+        font-size: 22px
+        line-height: 30px
+        text-align: center
+        letter-spacing: 0.05em
+        max-width: 848px
+        margin-bottom: 90px
+        @media only screen and (min-width: 1800px)
+            font-size: 32px
+            line-height: 38px
+            letter-spacing: 0.1em
+            max-width: 1200px
+        @media only screen and (max-width: 920px)
+            font-size: 21px
+            line-height: 27px
+            max-width: 464px
+            margin-bottom: 22px
+        @media only screen and (max-width: 520px)
+            max-width: 348px
+            letter-spacing: 0.02em
+        @media only screen and (max-width: 350px)
+            font-size: 18px
+            line-height: 23px
+
+    .contact_button
+        padding: 16px 19px
+        background-color: var(--secondary-color)
+        border-radius: 10px
+        color: var(--main-color)
+        font-weight: 400
+        font-size: 24px
+        line-height: 30px
+        letter-spacing: 0.05em
+        margin-bottom: 120px
+        transition: all .3s
+        @media only screen and (min-width: 1800px)
+            font-size: 28px
+            line-height: 32px
+            border-radius: 15px
+        @media only screen and (max-width: 920px)
+            font-size: 22px
+            line-height: 30px
+            padding: 10px 15px
+        @media only screen and (max-width: 350px)
+            font-size: 19px
+            padding: 8px 10px
+        &:focus
+            text-decoration: underline
+        &:hover
+            border-radius: 5px

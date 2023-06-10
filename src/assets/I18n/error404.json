@@ -1,0 +1,10 @@
+{
+    "error404": {
+        "fr": "Erreur 404",
+        "en": "Error 404"
+    },
+    "message": {
+        "fr": "La page demandé n'existe pas",
+        "en": "The requested page does not exist"
+    }
+}
