@@ -44,6 +44,8 @@
       </button>
       <span class="creator">{{ headerFooterI18n.creator[selectedLang] }}</span>
     </footer>
+
+    <script type="module" src="https://widget.wantag.com/widget.js" crossorigin data-project-id="2" />
   </div>
 
 </template>
